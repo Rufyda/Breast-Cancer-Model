@@ -70,11 +70,9 @@ Below are some screenshots of the application:
 ![Application Screenshot 2](https://github.com/user-attachments/assets/9f96452a-636f-486c-88ed-d7e3accf5f79)
 
 ## Video Demonstration
-Watch a video demonstration of the application [here](https://www.youtube.com/watch?v=VIDEO_ID) or directly below:
+Watch a video demonstration of the application [here](https://github.com/user-attachments/assets/9bb35bca-0579-49cb-9413-cdff36402dea) or directly below:
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-*(Replace `VIDEO_ID` with the actual ID of your YouTube video.)*
+[![Watch the video](https://img.youtube.com/vi/9bb35bca-0579-49cb-9413-cdff36402dea/0.jpg)](https://github.com/user-attachments/assets/9bb35bca-0579-49cb-9413-cdff36402dea)
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or want to add new features, please fork the repository and create a pull request.
