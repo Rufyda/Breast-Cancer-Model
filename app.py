@@ -2,7 +2,10 @@
 import streamlit as st
 import pandas as pd
 import joblib
-
+st.set_page_config(
+    page_title="Home",
+    page_icon="🎗️",
+)
 # تحميل النموذج والبيانات
 model = joblib.load('model.pkl')
 df = pd.read_csv('breast-cancer.csv')
