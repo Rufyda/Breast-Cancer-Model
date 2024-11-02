@@ -78,7 +78,7 @@ Watch a video demonstration of the application [here](https://github.com/user-at
 Contributions are welcome! If you have suggestions for improvements or want to add new features, please fork the repository and create a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License .
 
 ## Author
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/rufyda-rahma-96b656179/).
